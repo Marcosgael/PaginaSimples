@@ -1,5 +1,5 @@
 
-## PaginaSimple
+## Pagina Simples !
 
 <!DOCTYPE html>
 <html>
@@ -11,8 +11,8 @@
 </head>
 <body>
     <h1>Olá me chamo Marcos!</h1>
-    <p>Esta é uma página simples do meu  GitHub.</p>
-
+    <p>Olá, eu sou Marcos, estudante do curso de Ánalise e desenvolvimento de sistemas.</p>
+<!--      <p>Estou cursando o 4° semestre no período noturno no Senac largo treze</p> -->
     <script src="script.js"></script>
 </body>
 </html>
