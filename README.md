@@ -12,7 +12,7 @@
 <body>
     <h1>Olá me chamo Marcos!</h1>
     <p>Olá, eu sou Marcos, estudante do curso de Ánalise e desenvolvimento de sistemas.</p>
-<!--      <p>Estou cursando o 4° semestre no período noturno no Senac largo treze</p> -->
+   <p>Estou cursando o 4° semestre no período noturno no Senac largo treze</p>
     <script src="script.js"></script>
 </body>
 </html>
